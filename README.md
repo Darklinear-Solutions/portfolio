@@ -11,7 +11,7 @@ Only includes publicly published work. For more information, go to [darklinear.c
 | :-------- | :----------    |
 | [**Rumpel Wallet & Vault Update**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Rumpel-Wallet-Darklinear-Security-Review.pdf) | July 2024 |
 | YOLO Games | June 2024 |
-| [**Optimism — Safe Extensions**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Optimism-Darklinear-Security-Review.pdf) | May 2024 |
+| [**Optimism — Safe Extensions**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Optimism-Safe-Extensions-Darklinear-Security-Review.pdf) | May 2024 |
 | [**Rumpel — Point Tokenization Vault**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Rumpel-Darklinear-Security-Review.pdf) | April 2024 |
 | [**Dyad**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Dyad-Darklinear-Security-Review.pdf) | April 2024 |
 | [**Goat.Tech**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Goat.Tech-Darklinear-Security-Review.pdf) | April 2024 |
