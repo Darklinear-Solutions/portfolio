@@ -9,6 +9,7 @@ Only includes publicly published work. For more information, go to [darklinear.c
 
 | Review   | Completed      |
 | :-------- | :----------    |
+| [**Rumpel: Passive Point Selling Contracts**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Rumpel-Autoseller-Darklinear-Security-Review.pdf) | April 2025
 | [**Sky.money: Phase Zero, Phase One, and Helipad**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Sky-Darklinear-Security-Review-Public.pdf) | August - September 2024 |
 | [**Rumpel Wallet & Vault Update**](https://github.com/Darklinear-Solutions/portfolio/blob/main/reports/Rumpel-Wallet-Darklinear-Security-Review.pdf) | July 2024 |
 | YOLO Games | June 2024 |
